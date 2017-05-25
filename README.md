@@ -43,7 +43,7 @@ Finally, This project is BETA version. If there are PROBLEMs or SOME BUGs, Pleas
   * PHP5 (or above)
 * Java RE 8
 
-### Main Components (You can download components from others separately)
+### Main Components (You can download latest version from owner separately)
 * jQuery
 * Bootstrap3
 * Font-Awesome
