@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Test PopUp</title>
+		<script src="assets/js/jquery-2.1.4.js"></script>
+		<script>
+			$(document).ready(function(){
+				alert("hello test");
+				$("#popup").click(function(){
+					var url = "exam_sheet_js.php";
+					var newwindow = window.open(url,'name','height=600,width=800');
+					if (window.focus) {newwindow.focus()}
+						return false;
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div>
+			<a href="popupex.html" id="popup">Open popup</a>
+		</div>
+	</body>
+</html>
