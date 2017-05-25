@@ -59,7 +59,7 @@ and MAKE SURE that you've already installed all of these
 ### Second - Setup Web Interface
 1. Create "mtc-project" folder into directory "c:/xampp/htdocs" (for XAMPP only)
 2. Download zip form github, then unzip into "mtc-project" directory
-3. Move folder "assets" and all file in "web-interface" to "mtc-project" folder
+3. Move all folder and all file in "web-interface" to "mtc-project" folder
 
 ### Third - Setup Database
 1. Create database named "mtc-project" or something what you want
