@@ -32,7 +32,7 @@ BETA Version is NOW
 # Get Started
 All web interface from this project has been developing using PHP and Javascript mainly.
 If You're EXPERT in these field, PLEASE DO NOT EXPECT from this project. There are so many bugs and we try to fix these.
-We are building this project for offline perposed. So, it's not safe to deploy on cloud computing.
+We are building this project for offline perposed. So, it's not safe to deploy on cloud computing or online system.
 Finally, This project is BETA version. If there are PROBLEMs or SOME BUGs, Please report an issues
 
 ## Prerequisites
@@ -53,7 +53,7 @@ Finally, This project is BETA version. If there are PROBLEMs or SOME BUGs, Pleas
 ## How to Setup
 
 ### First
-Please intall softwares or dependencies from Prerequisites<br>
+Please install softwares or dependencies from Prerequisites<br>
 and MAKE SURE that you've already installed all of these
 
 ### Second - Setup Web Interface
