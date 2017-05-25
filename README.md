@@ -1,11 +1,13 @@
 # MTC E-Testing Platform Project
-This is our OpenSource Project to "cure" TH Education due to Thailand 4.0, so it's for non-commercial use only
-The Item bank is used for collecting and keep the tests, which are changed from paper based to digital based for manage easier, 
+This is our OpenSource Project to "cure" TH Education due to Thailand 4.0, so it's for non-commercial use only.
+The Item bank is used for collecting and keep the tests, which are changed from paper based to digital based for manage easier. 
 All of tests from the itembank can be analyzed quality of test which conduct to the analyzing quality of examinee or students.
 There are parameter to detemine the difficulty of item, which can seperate kind of student, which these data can be analyzed to improve them at the exactly weak point.
 So, we need to be a part of the future to build the new quality of TH education better and better.
 
+```
 BETA Version is NOW
+```
 
 ## Main Features
 * For Instructors
