@@ -43,6 +43,13 @@ Finally, This project is BETA version. If there are PROBLEMs or SOME BUGs, Pleas
   * PHP5 (or above)
 * Java RE 8
 
+## Main Components (You can download components from others separately)
+* jQuery
+* Bootstrap3
+* Font-Awesome
+* NVD3 (D3.js integrated)
+* PHPWord
+
 ## How to Setup
 
 ### First
@@ -50,8 +57,7 @@ Please intall softwares or dependencies from Prerequisites<br>
 and MAKE SURE that you've already installed all of these
 
 ### Second - Setup Web Interface
-[For XAMPP]
-1. Create "mtc-project" folder into directory "c:/xampp/htdocs" (for XAMPP)
+1. Create "mtc-project" folder into directory "c:/xampp/htdocs" (for XAMPP only)
 2. Download zip form github, then unzip into "mtc-project" directory
 3. Move folder "assets" and all file in "web-interface" to "mtc-project" folder
 
@@ -60,15 +66,6 @@ and MAKE SURE that you've already installed all of these
 2. Import "mtc-project.sql" structure into created database
 3. Add database name and mysql data (user and password) in "mtc-project/include/connect_db.php"
 <br>Note: You need to MANUAL ADD admin's user into database directly
-
-# About MTC E-Testing
-
-## Main Components
-* jQuery
-* Bootstrap3
-* Font-Awesome
-* NVD3 (D3.js integrated)
-* PHPWord
 
 # Authors
 MTC E-Testing Platform is developed by Chayawat Pechwises<br>
