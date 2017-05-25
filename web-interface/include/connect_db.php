@@ -1,9 +1,9 @@
 <?php
 	function connectDB(){
 		$servername = "localhost";
-		$username = "root";
-		$password = "toptop";
-		$dbname = "mtc_project";
+		$username = "";
+		$password = "";
+		$dbname = "mtc-project";	// default: mtc-project
 			
 		// Create connection
 		$con = new mysqli($servername, $username, $password, $dbname);
