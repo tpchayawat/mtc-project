@@ -67,7 +67,7 @@ Note: You need to MANUAL ADD admin's user into database directly
 * PHPWord
 
 # Authors
-MTC E-Testing Platform is developed by Chayawat Pechwises
+MTC E-Testing Platform is developed by Chayawat Pechwises<br>
 Email: tp.chayawat@gmail.com
 VasabiLab at Computer Science Departement
 Thammasat University
